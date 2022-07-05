@@ -4,5 +4,6 @@
 
 ## Features
 - Allows adding data to the tree when the application couldn't guess the user's character
+- Using local storage
 
 <a href="https://shanikupiec.github.io/guess-who-jQuery/" target="blank">Link to GitHub Pages</a>
